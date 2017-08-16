@@ -3,3 +3,7 @@
 This class is just a temporary workaround to avoid the heavy boost dependency
 until `boost::filesystem` is integrated into the standard template library at
 some point in the future.
+
+
+
+This fork separates platform specific definitins to .cpp file.
